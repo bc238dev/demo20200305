@@ -1,3 +1,5 @@
+# This is done in repl.it on 5 March 2020/Thr
+# Also I've done a similar demo in NodeJS as well.
 print("--- Pi Demo (5 March 2020/Thr) ---")
 import random
 from math import sqrt
